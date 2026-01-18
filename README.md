@@ -13,7 +13,7 @@ This project applies **Market Basket Analysis (MBA)** to understand customer pur
 - Performed **itemset generation** to identify frequent product combinations purchased together.  
 - Applied **Support, Confidence, and Lift metrics** to measure the strength of association between products.  
 - Implemented the **Apriori algorithm** to discover frequent itemsets and generate association rules.  
-- Identified high-potential product pairings, e.g., “A.T. Performance Engineered Joggers for Tall Men in Charcoal Mix” and its Black variant with the highest lift, indicating strong cross-selling opportunities.  
+- Identified high-potential product pairings indicating strong cross-selling opportunities.  
 - Visualized insights using **bar charts** to highlight top products, itemsets, and transaction distributions.  
 - Designed actionable recommendations for merchandising teams to optimize promotions, product placement, and complementary product offers.
 
