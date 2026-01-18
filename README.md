@@ -35,5 +35,3 @@ This project applies **Market Basket Analysis (MBA)** to understand customer pur
 - [Deepnote Tutorial on MBA](https://deepnote.com/app/code-along-tutorials/Market-Basket-Analysis-in-Python-An-Implementation-with-Online-Retail-Data-6231620b-cba3-4935-bde8-8ce1490868bf)  
 
 ---
-
-## Repository Structure
