@@ -2,12 +2,10 @@
 
 **Tools:** Python, SQL, Pandas, Matplotlib, MLxtend (Apriori & Association Rules)
 
----
 
 ## Project Overview
 This project applies **Market Basket Analysis (MBA)** to understand customer purchasing patterns and identify product relationships in a retail dataset. The goal is to generate actionable insights for merchandising decisions, such as product bundling, promotions, and assortment optimization.
 
----
 
 ## Key Highlights
 - Extracted and cleaned transactional data, including customer ID, product name, product type, order ID, sales, and transaction metrics.  
@@ -19,15 +17,12 @@ This project applies **Market Basket Analysis (MBA)** to understand customer pur
 - Visualized insights using **bar charts** to highlight top products, itemsets, and transaction distributions.  
 - Designed actionable recommendations for merchandising teams to optimize promotions, product placement, and complementary product offers.
 
----
 
 ## Business Impact
 - Provided clear insights into purchase behavior, enabling **data-driven merchandising decisions**.  
 - Strengthened **category performance** through evidence-based recommendations for targeted promotions and upselling opportunities.  
 - Demonstrated the ability to turn raw transactional data into **strategic business intelligence**.
 
-
----
 
 ## References & Learning
 - [Understanding Market Basket Analysis](https://select-statistics.co.uk/blog/market-basket-analysis-understanding-customer-behaviour/)  
